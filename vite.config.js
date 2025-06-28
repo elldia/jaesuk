@@ -7,5 +7,6 @@ export default defineConfig({
   base:'/jaesuk/',
   build: {
     outDir: 'dist',
+    assetsDir: 'assets',
   }
 })
