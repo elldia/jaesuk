@@ -8,7 +8,7 @@ function Intro(){
                 <li>- 178cm, 65kg, B형, 270mm, ISFP</li>
                 <li>- 서울예술전문대학 방송연예과 중퇴</li>
             </ul>
-            <img src="./images/jaeseok2.png" alt="" />
+            <img src="/images/jaeseok2.png" alt="" />
         </>
     )
 }
