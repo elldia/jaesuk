@@ -18,6 +18,7 @@
                         <Link to="/nick">별명&특징</Link>
                     </nav>
                     <Routes>
+                        <Route index element={<Home />} />
                         <Route path="/" element={<Home />} />
                         <Route path="/intro" element={<Intro />} />
                         <Route path="/nick" element={<Nick />} />
