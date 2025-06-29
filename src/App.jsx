@@ -11,7 +11,7 @@
             <div id="wrap">
                 <Header />
                 <main>
-                    <BrowserRouter>
+                    <BrowserRouter basename="/jaesuk">
                     <nav>
                         <Link to="/">유재석</Link>
                         <Link to="/intro">인적사항</Link>
